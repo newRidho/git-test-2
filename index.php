@@ -8,5 +8,10 @@
 <body>
 	<h1>UwU</h1>
 	<p>lorem10</p>
+	<ul>
+		<li>U</li>
+		<li>w</li>
+		<li>U</li>
+	</ul>
 </body>
 </html>
